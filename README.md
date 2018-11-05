@@ -1,2 +1,3 @@
-# lta-firmware-v1
-Firmware of the first lta board version.
+This is the firmware of the LTA board which includes the
+following components:
+
